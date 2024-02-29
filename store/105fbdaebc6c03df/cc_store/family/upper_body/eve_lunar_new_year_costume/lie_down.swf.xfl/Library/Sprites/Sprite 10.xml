@@ -1,0 +1,717 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" linkageExportForAS="true" linkageExportForRS="true" linkageIdentifier="lie_down_fla.theUpper_1" linkageClassName="lie_down_fla.theUpper_1" name="Sprites/Sprite 10">
+  <timeline>
+    <DOMTimeline name="Sprite 10">
+      <layers>
+        <DOMLayer name="Layer 13" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0" duration="60">
+              <elements>
+                <DOMSymbolInstance name="shaderObj" libraryItemName="Sprites/Sprite 9">
+                  <matrix>
+                    <Matrix d="0.999496" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 8" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0" duration="14" tweenType="motion">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 6">
+                  <matrix>
+                    <Matrix tx="-1.8" ty="-15.1" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" tweenType="motion">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 6">
+                  <matrix>
+                    <Matrix a="1.01007" tx="-2.5" ty="-15.1" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 6">
+                  <matrix>
+                    <Matrix a="1.01079" tx="-2.6" ty="-15.1" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="2" tweenType="motion">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 6">
+                  <matrix>
+                    <Matrix a="1.01151" tx="-2.65" ty="-15.1" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" tweenType="motion">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 6">
+                  <matrix>
+                    <Matrix a="1.01294" tx="-2.75" ty="-15.1" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 6">
+                  <matrix>
+                    <Matrix a="1.01367" tx="-2.75" ty="-15.1" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="9" tweenType="motion">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 6">
+                  <matrix>
+                    <Matrix a="1.01439" tx="-2.85" ty="-15.1" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="11" tweenType="motion">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 6">
+                  <matrix>
+                    <Matrix a="1.02086" tx="-3.3" ty="-15.1" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="40" tweenType="motion">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 6">
+                  <matrix>
+                    <Matrix a="1.01321" tx="-2.75" ty="-15.1" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="41">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 6">
+                  <matrix>
+                    <Matrix a="1.01251" tx="-2.65" ty="-15.1" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" duration="6" tweenType="motion">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 6">
+                  <matrix>
+                    <Matrix a="1.01183" tx="-2.6" ty="-15.1" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="48" tweenType="motion">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 6">
+                  <matrix>
+                    <Matrix a="1.00764" tx="-2.3" ty="-15.1" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 6">
+                  <matrix>
+                    <Matrix a="1.00696" tx="-2.3" ty="-15.1" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="50" duration="9" tweenType="motion">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 6">
+                  <matrix>
+                    <Matrix a="1.00626" tx="-2.25" ty="-15.1" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" tweenType="motion">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 6">
+                  <matrix>
+                    <Matrix tx="-1.8" ty="-15.1" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0" duration="60">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 4">
+                  <matrix>
+                    <Matrix a="0.990005" b="0.0214691" c="0.0214539" d="-0.990005" tx="-5.85" ty="-15.5" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix tx="-0.35" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.00107" tx="-0.4" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.00214" tx="-0.4" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.0032" tx="-0.45" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.00427" tx="-0.45" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.00536" tx="-0.5" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.00642" tx="-0.5" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.00749" tx="-0.55" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.00856" tx="-0.55" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.00963" tx="-0.6" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.0107" tx="-0.6" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.01176" tx="-0.65" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.01283" tx="-0.65" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.0139" tx="-0.7" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.01497" tx="-0.7" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.01605" tx="-0.75" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.01712" tx="-0.75" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.01819" tx="-0.8" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.01926" tx="-0.8" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.02032" tx="-0.85" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.02139" tx="-0.85" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.02246" tx="-0.9" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.02353" tx="-0.9" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.0246" tx="-0.95" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.02567" tx="-0.95" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.02675" tx="-1" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.02782" tx="-1" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.02888" tx="-1.05" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.02995" tx="-1.05" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.03102" tx="-1.1" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.02998" tx="-1.1" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.02895" tx="-1.05" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.02792" tx="-1.05" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.02689" tx="-1" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.02585" tx="-1" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="35">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.02481" tx="-0.95" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.02379" tx="-0.95" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="37">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.02275" tx="-0.9" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="38">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.02171" tx="-0.9" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.02068" tx="-0.85" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="40">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.01965" tx="-0.85" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="41">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.01862" tx="-0.85" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.01756" tx="-0.8" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="43">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.01653" tx="-0.8" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.0155" tx="-0.75" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="45">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.01447" tx="-0.75" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="46">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.01343" tx="-0.7" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="47">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.01241" tx="-0.7" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="48">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.01137" tx="-0.65" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.01035" tx="-0.65" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="50">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.00931" tx="-0.6" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="51">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.00827" tx="-0.6" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="52">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.00723" tx="-0.5" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="53">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.00621" tx="-0.5" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.00517" tx="-0.45" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="55">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.00414" tx="-0.45" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="56">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.0031" tx="-0.4" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="57">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.00208" tx="-0.4" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix a="1.00104" tx="-0.35" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 2">
+                  <matrix>
+                    <Matrix tx="-0.35" ty="-36.55" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

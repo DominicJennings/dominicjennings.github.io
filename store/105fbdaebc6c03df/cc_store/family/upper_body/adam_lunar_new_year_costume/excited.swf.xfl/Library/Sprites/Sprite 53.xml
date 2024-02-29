@@ -1,0 +1,378 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" linkageExportForAS="true" linkageExportForRS="true" linkageIdentifier="excited_fla.theUpper_1" linkageClassName="excited_fla.theUpper_1" name="Sprites/Sprite 53">
+  <timeline>
+    <DOMTimeline name="Sprite 53">
+      <layers>
+        <DOMLayer name="Layer 13" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0" duration="80">
+              <elements>
+                <DOMSymbolInstance name="shaderObj" libraryItemName="Sprites/Sprite 28">
+                  <matrix>
+                    <Matrix a="0.999268" tx="0.1" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 12" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 4" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 30" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 32" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="74" />
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 9" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.19902" b="-0.970901" c="0.970856" d="-0.198944" tx="19" ty="20.2" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="0.886307" b="-0.443527" c="0.443451" d="0.886292" tx="-1" ty="-24.8" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="0.886307" b="-0.443527" c="0.443451" d="0.886292" tx="1.5" ty="-34.8" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.827255" b="0.545807" c="0.545822" d="0.827194" tx="55.8" ty="-106.3" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.765152" b="0.629379" c="0.629395" d="0.765076" tx="58.3" ty="-116.3" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.827255" b="0.545807" c="0.545822" d="0.827194" tx="55.8" ty="-106.3" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.657806" b="0.741318" c="0.741318" d="0.657745" tx="56.8" ty="-97.8" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.682373" b="0.717575" c="0.717575" d="0.682312" tx="58.35" ty="-77.85" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.765152" b="0.629379" c="0.629395" d="0.765076" tx="58.3" ty="-116.3" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.827255" b="0.545807" c="0.545822" d="0.827194" tx="55.8" ty="-106.3" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.657806" b="0.741318" c="0.741318" d="0.657745" tx="56.8" ty="-97.8" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.686066" b="0.714035" c="0.71402" d="0.68602" tx="58.35" ty="-77.85" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.725098" b="0.67482" c="0.674835" d="0.725021" tx="58.3" ty="-121.3" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="16">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.765152" b="0.629379" c="0.629395" d="0.765076" tx="58.3" ty="-116.3" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="40" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.827255" b="0.545807" c="0.545822" d="0.827194" tx="55.8" ty="-106.3" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.657806" b="0.741318" c="0.741318" d="0.657745" tx="56.8" ty="-97.8" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="43" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.734177" b="0.664169" c="0.664169" d="0.734116" tx="58.35" ty="-77.85" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="45" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.765152" b="0.629379" c="0.629395" d="0.765076" tx="58.3" ty="-116.3" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="47" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.827255" b="0.545807" c="0.545822" d="0.827194" tx="55.8" ty="-106.3" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.657806" b="0.741318" c="0.741318" d="0.657745" tx="56.8" ty="-97.8" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="50" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.568909" b="0.811096" c="0.811081" d="0.568848" tx="58.35" ty="-77.85" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="52" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.725098" b="0.67482" c="0.674835" d="0.725021" tx="58.3" ty="-121.3" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="26">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.765152" b="0.629379" c="0.629395" d="0.765076" tx="58.3" ty="-116.3" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 8" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0" duration="2" />
+            <DOMFrame index="2" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 29" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 31" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="74" />
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 1" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="4" />
+            <DOMFrame index="6" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 33" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 34" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 35" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 36" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 37" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 38" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 39" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 40" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 41" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 42" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="16">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 43" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="40" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 44" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 45" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="43" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 46" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="45" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 47" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="47" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 48" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 49" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="50" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 50" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="52" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 51" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="26">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 52" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

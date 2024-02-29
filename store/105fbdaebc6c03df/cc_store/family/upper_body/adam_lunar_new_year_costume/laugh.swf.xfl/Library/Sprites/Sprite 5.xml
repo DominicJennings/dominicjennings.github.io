@@ -1,0 +1,329 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" linkageExportInFirstFrame="false" name="Sprites/Sprite 5">
+  <timeline>
+    <DOMTimeline name="Sprite 5">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0" duration="2">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#e6e6e6" />
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#5c5c5c" />
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#e5e5e5" />
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#e5e5e5" />
+                    </FillStyle>
+                    <FillStyle index="5">
+                      <SolidColor color="#000000" />
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke weight="1" scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#000000" />
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="5" edges="!419 -1032[529 -810 573 -684" />
+                    <Edge fillStyle1="5" edges="!573 -684[618 -552 618 -442" />
+                    <Edge fillStyle1="5" edges="!618 -442[618 -324 447 -272" />
+                    <Edge fillStyle1="5" edges="!447 -272|444 -271" />
+                    <Edge fillStyle1="5" edges="!444 -271[470 -68 478 172" />
+                    <Edge fillStyle1="5" edges="!478 172[223 374 -120 324" />
+                    <Edge fillStyle1="5" edges="!-120 324|-142 163" />
+                    <Edge fillStyle1="5" edges="!-142 163|-161 10" />
+                    <Edge fillStyle1="5" edges="!-161 10|-164 -18" />
+                    <Edge fillStyle1="5" edges="!-164 -18|-218 -15" />
+                    <Edge fillStyle1="5" edges="!-218 -15[-259 -15 -308 -35" />
+                    <Edge fillStyle1="5" edges="!-308 -35|-347 7" />
+                    <Edge fillStyle1="5" edges="!-347 7|-372 -35" />
+                    <Edge fillStyle1="5" edges="!-372 -35|-402 -36" />
+                    <Edge fillStyle1="5" edges="!-402 -36|-421 -38" />
+                    <Edge fillStyle1="5" edges="!-421 -38|-470 -51" />
+                    <Edge fillStyle1="5" edges="!-470 -51|-465 -2" />
+                    <Edge fillStyle1="5" edges="!-465 -2|-447 205" />
+                    <Edge fillStyle1="5" edges="!-447 205|-443 239" />
+                    <Edge fillStyle1="5" edges="!-443 239|-432 312" />
+                    <Edge fillStyle1="5" edges="!-432 312|-569 295" />
+                    <Edge fillStyle1="5" edges="!-569 295|-590 292" />
+                    <Edge fillStyle1="5" edges="!-590 292[-574 91 -581 -129" />
+                    <Edge fillStyle1="5" edges="!-581 -129[-662 -155 -763 -208" />
+                    <Edge fillStyle1="5" edges="!-763 -208[-894 -278 -937 -321" />
+                    <Edge fillStyle1="5" edges="!-937 -321[-977 -361 -993 -398" />
+                    <Edge fillStyle1="5" edges="!-993 -398[-1008 -435 -998 -516" />
+                    <Edge fillStyle1="5" edges="!-998 -516[-988 -598 -882 -854" />
+                    <Edge fillStyle1="5" edges="!-882 -854[-776 -1110 -720 -1178" />
+                    <Edge fillStyle1="5" edges="!-720 -1178[-647 -1268 -528 -1268" />
+                    <Edge fillStyle1="5" edges="!-528 -1268|-491 -1267" />
+                    <Edge fillStyle1="5" edges="!-491 -1267|-459 -1255" />
+                    <Edge fillStyle1="5" edges="!-459 -1255[-419 -1307 -400 -1309" />
+                    <Edge fillStyle1="5" edges="!-400 -1309|-396 -1322" />
+                    <Edge fillStyle1="5" edges="!-396 -1322|-395 -1326" />
+                    <Edge fillStyle1="5" edges="!-395 -1326|-396 -1326" />
+                    <Edge fillStyle1="5" edges="!-396 -1326|-399 -1421" />
+                    <Edge fillStyle1="5" edges="!-399 -1421[-403 -1483 -388 -1549" />
+                    <Edge fillStyle1="5" edges="!-388 -1549[-374 -1615 -256 -1618" />
+                    <Edge fillStyle1="5" edges="!-256 -1618[-139 -1621 -116 -1511" />
+                    <Edge fillStyle1="5" edges="!-116 -1511|-102 -1435" />
+                    <Edge fillStyle1="5" edges="!-102 -1435|-96 -1378" />
+                    <Edge fillStyle1="5" edges="!-96 -1378|-81 -1365" />
+                    <Edge fillStyle1="5" edges="!-81 -1365|-79 -1362" />
+                    <Edge fillStyle1="5" edges="!-79 -1362|-73 -1357" />
+                    <Edge fillStyle1="5" edges="!-73 -1357|-59 -1341" />
+                    <Edge fillStyle1="5" edges="!-59 -1341|-39 -1315" />
+                    <Edge fillStyle1="5" edges="!-39 -1315|-30 -1299" />
+                    <Edge fillStyle1="5" edges="!-30 -1299|-24 -1290" />
+                    <Edge fillStyle1="5" edges="!-24 -1290[-9 -1309 19 -1323" />
+                    <Edge fillStyle1="5" edges="!19 -1323[62 -1345 107 -1345" />
+                    <Edge fillStyle1="5" edges="!107 -1345[196 -1345 263 -1278" />
+                    <Edge fillStyle1="5" edges="!263 -1278[330 -1211 419 -1032" />
+                    <Edge fillStyle0="5" edges="!-394 -1308|-396 -1306" />
+                    <Edge fillStyle0="5" edges="!-396 -1306|-398 -1304" />
+                    <Edge fillStyle0="5" edges="!-398 -1304|-396 -1320" />
+                    <Edge fillStyle0="5" edges="!-396 -1320|-395 -1309" />
+                    <Edge fillStyle0="5" edges="!-395 -1309|-394 -1308" />
+                    <Edge fillStyle0="5" edges="!-631 -680|-605 -470" />
+                    <Edge fillStyle0="5" edges="!-605 -470|-688 -518" />
+                    <Edge fillStyle0="5" edges="!-688 -518|-669 -576" />
+                    <Edge fillStyle0="5" edges="!-669 -576|-631 -680" />
+                    <Edge fillStyle1="5" edges="!-515 -425|-527 -430" />
+                    <Edge fillStyle1="5" edges="!-527 -430|-524 -417" />
+                    <Edge fillStyle1="5" edges="!-524 -417|-515 -425" />
+                    <Edge fillStyle0="5" edges="!-412 -103|-408 -97" />
+                    <Edge fillStyle0="5" edges="!-408 -97|-415 -104" />
+                    <Edge fillStyle0="5" edges="!-415 -104|-412 -103" />
+                    <Edge fillStyle1="5" edges="!-48 -486|-49 -486" />
+                    <Edge fillStyle1="5" edges="!-49 -486|-46 -482" />
+                    <Edge fillStyle1="5" edges="!-46 -482|-48 -486" />
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#5c5c5c" />
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#e6e6e6" />
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#e5e5e5" />
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#e5e5e5" />
+                    </FillStyle>
+                    <FillStyle index="5">
+                      <SolidColor color="#000000" />
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke weight="1" scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#000000" />
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="5" edges="!419 -1012[529 -790 573 -664" />
+                    <Edge fillStyle1="5" edges="!573 -664[618 -532 618 -422" />
+                    <Edge fillStyle1="5" edges="!618 -422[618 -304 447 -252" />
+                    <Edge fillStyle1="5" edges="!447 -252|445 -251" />
+                    <Edge fillStyle1="5" edges="!445 -251[470 -52 478 183" />
+                    <Edge fillStyle1="5" edges="!478 183[223 383 -120 334" />
+                    <Edge fillStyle1="5" edges="!-120 334|-142 174" />
+                    <Edge fillStyle1="5" edges="!-142 174|-161 23" />
+                    <Edge fillStyle1="5" edges="!-161 23|-164 2" />
+                    <Edge fillStyle1="5" edges="!-164 2|-218 5" />
+                    <Edge fillStyle1="5" edges="!-218 5[-261 5 -312 -17" />
+                    <Edge fillStyle1="5" edges="!-312 -17|-347 20" />
+                    <Edge fillStyle1="5" edges="!-347 20|-372 -22" />
+                    <Edge fillStyle1="5" edges="!-372 -22|-402 -23" />
+                    <Edge fillStyle1="5" edges="!-402 -23|-421 -25" />
+                    <Edge fillStyle1="5" edges="!-421 -25|-470 -37" />
+                    <Edge fillStyle1="5" edges="!-470 -37|-465 11" />
+                    <Edge fillStyle1="5" edges="!-465 11|-447 216" />
+                    <Edge fillStyle1="5" edges="!-447 216|-443 250" />
+                    <Edge fillStyle1="5" edges="!-443 250|-432 322" />
+                    <Edge fillStyle1="5" edges="!-432 322|-569 305" />
+                    <Edge fillStyle1="5" edges="!-569 305|-590 302" />
+                    <Edge fillStyle1="5" edges="!-590 302[-575 106 -581 -109" />
+                    <Edge fillStyle1="5" edges="!-581 -109[-662 -135 -763 -188" />
+                    <Edge fillStyle1="5" edges="!-763 -188[-894 -258 -937 -301" />
+                    <Edge fillStyle1="5" edges="!-937 -301[-977 -341 -993 -378" />
+                    <Edge fillStyle1="5" edges="!-993 -378[-1008 -415 -998 -496" />
+                    <Edge fillStyle1="5" edges="!-998 -496[-988 -578 -882 -834" />
+                    <Edge fillStyle1="5" edges="!-882 -834[-776 -1090 -720 -1158" />
+                    <Edge fillStyle1="5" edges="!-720 -1158[-647 -1248 -528 -1248" />
+                    <Edge fillStyle1="5" edges="!-528 -1248|-491 -1247" />
+                    <Edge fillStyle1="5" edges="!-491 -1247|-456 -1233" />
+                    <Edge fillStyle1="5" edges="!-456 -1233[-418 -1281 -400 -1283" />
+                    <Edge fillStyle1="5" edges="!-400 -1283|-396 -1295" />
+                    <Edge fillStyle1="5" edges="!-396 -1295|-395 -1299" />
+                    <Edge fillStyle1="5" edges="!-395 -1299|-396 -1299" />
+                    <Edge fillStyle1="5" edges="!-396 -1299|-399 -1393" />
+                    <Edge fillStyle1="5" edges="!-399 -1393[-403 -1455 -388 -1520" />
+                    <Edge fillStyle1="5" edges="!-388 -1520[-374 -1585 -256 -1588" />
+                    <Edge fillStyle1="5" edges="!-256 -1588[-139 -1591 -116 -1483" />
+                    <Edge fillStyle1="5" edges="!-116 -1483|-102 -1407" />
+                    <Edge fillStyle1="5" edges="!-102 -1407|-96 -1351" />
+                    <Edge fillStyle1="5" edges="!-96 -1351|-81 -1338" />
+                    <Edge fillStyle1="5" edges="!-81 -1338|-79 -1335" />
+                    <Edge fillStyle1="5" edges="!-79 -1335|-73 -1330" />
+                    <Edge fillStyle1="5" edges="!-73 -1330|-59 -1314" />
+                    <Edge fillStyle1="5" edges="!-59 -1314|-39 -1289" />
+                    <Edge fillStyle1="5" edges="!-39 -1289|-30 -1273" />
+                    <Edge fillStyle1="5" edges="!-30 -1273|-26 -1268" />
+                    <Edge fillStyle1="5" edges="!-26 -1268[-11 -1288 19 -1303" />
+                    <Edge fillStyle1="5" edges="!19 -1303[62 -1325 107 -1325" />
+                    <Edge fillStyle1="5" edges="!107 -1325[196 -1325 263 -1258" />
+                    <Edge fillStyle1="5" edges="!263 -1258[330 -1191 419 -1012" />
+                    <Edge fillStyle0="5" edges="!-398 -1278|-396 -1293" />
+                    <Edge fillStyle0="5" edges="!-396 -1293|-395 -1283" />
+                    <Edge fillStyle0="5" edges="!-395 -1283|-394 -1282" />
+                    <Edge fillStyle0="5" edges="!-394 -1282|-396 -1280" />
+                    <Edge fillStyle0="5" edges="!-396 -1280|-398 -1278" />
+                    <Edge fillStyle0="5" edges="!-631 -660|-605 -450" />
+                    <Edge fillStyle0="5" edges="!-605 -450|-688 -498" />
+                    <Edge fillStyle0="5" edges="!-688 -498|-669 -556" />
+                    <Edge fillStyle0="5" edges="!-669 -556|-631 -660" />
+                    <Edge fillStyle0="5" edges="!-527 -410|-515 -405" />
+                    <Edge fillStyle0="5" edges="!-515 -405|-524 -397" />
+                    <Edge fillStyle0="5" edges="!-524 -397|-527 -410" />
+                    <Edge fillStyle0="5" edges="!-480 -172|-483 -192" />
+                    <Edge fillStyle0="5" edges="!-483 -192|-482 -197" />
+                    <Edge fillStyle0="5" edges="!-482 -197|-480 -172" />
+                    <Edge fillStyle1="5" edges="!-412 -83|-415 -84" />
+                    <Edge fillStyle1="5" edges="!-415 -84|-401 -71" />
+                    <Edge fillStyle1="5" edges="!-401 -71|-412 -89" />
+                    <Edge fillStyle1="5" edges="!-412 -89|-412 -83" />
+                    <Edge fillStyle1="5" edges="!-46 -462|-48 -466" />
+                    <Edge fillStyle1="5" edges="!-48 -466|-49 -466" />
+                    <Edge fillStyle1="5" edges="!-49 -466|-46 -462" />
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#5c5c5c" />
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#e6e6e6" />
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#e5e5e5" />
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#e5e5e5" />
+                    </FillStyle>
+                    <FillStyle index="5">
+                      <SolidColor color="#000000" />
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke weight="1" scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#000000" />
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="5" edges="!263 -1209[330 -1142 419 -965" />
+                    <Edge fillStyle1="5" edges="!419 -965[529 -744 573 -619" />
+                    <Edge fillStyle1="5" edges="!573 -619[618 -488 618 -379" />
+                    <Edge fillStyle1="5" edges="!618 -379[618 -263 449 -210" />
+                    <Edge fillStyle1="5" edges="!449 -210[471 -26 478 189" />
+                    <Edge fillStyle1="5" edges="!478 189[223 388 -120 339" />
+                    <Edge fillStyle1="5" edges="!-120 339|-142 180" />
+                    <Edge fillStyle1="5" edges="!-142 180|-159 42" />
+                    <Edge fillStyle1="5" edges="!-159 42|-218 45" />
+                    <Edge fillStyle1="5" edges="!-218 45[-267 45 -326 16" />
+                    <Edge fillStyle1="5" edges="!-326 16|-333 13" />
+                    <Edge fillStyle1="5" edges="!-333 13|-347 27" />
+                    <Edge fillStyle1="5" edges="!-347 27|-366 -5" />
+                    <Edge fillStyle1="5" edges="!-366 -5|-374 -11" />
+                    <Edge fillStyle1="5" edges="!-374 -11|-381 -15" />
+                    <Edge fillStyle1="5" edges="!-381 -15|-402 -16" />
+                    <Edge fillStyle1="5" edges="!-402 -16|-421 -18" />
+                    <Edge fillStyle1="5" edges="!-421 -18|-470 -30" />
+                    <Edge fillStyle1="5" edges="!-470 -30|-465 18" />
+                    <Edge fillStyle1="5" edges="!-465 18|-447 222" />
+                    <Edge fillStyle1="5" edges="!-447 222|-443 256" />
+                    <Edge fillStyle1="5" edges="!-443 256|-432 327" />
+                    <Edge fillStyle1="5" edges="!-432 327|-569 310" />
+                    <Edge fillStyle1="5" edges="!-569 310|-590 307" />
+                    <Edge fillStyle1="5" edges="!-590 307[-576 128 -580 -67" />
+                    <Edge fillStyle1="5" edges="!-580 -67[-661 -93 -763 -147" />
+                    <Edge fillStyle1="5" edges="!-763 -147[-894 -216 -937 -259" />
+                    <Edge fillStyle1="5" edges="!-937 -259[-977 -298 -993 -335" />
+                    <Edge fillStyle1="5" edges="!-993 -335[-1008 -372 -998 -452" />
+                    <Edge fillStyle1="5" edges="!-998 -452[-988 -534 -882 -788" />
+                    <Edge fillStyle1="5" edges="!-882 -788[-776 -1042 -720 -1109" />
+                    <Edge fillStyle1="5" edges="!-720 -1109[-647 -1199 -528 -1199" />
+                    <Edge fillStyle1="5" edges="!-528 -1199|-491 -1198" />
+                    <Edge fillStyle1="5" edges="!-491 -1198|-475 -1193" />
+                    <Edge fillStyle1="5" edges="!-475 -1193[-423 -1266 -400 -1269" />
+                    <Edge fillStyle1="5" edges="!-400 -1269|-396 -1281" />
+                    <Edge fillStyle1="5" edges="!-396 -1281|-395 -1285" />
+                    <Edge fillStyle1="5" edges="!-395 -1285|-396 -1285" />
+                    <Edge fillStyle1="5" edges="!-396 -1285|-399 -1379" />
+                    <Edge fillStyle1="5" edges="!-399 -1379[-403 -1441 -388 -1505" />
+                    <Edge fillStyle1="5" edges="!-388 -1505[-374 -1570 -256 -1573" />
+                    <Edge fillStyle1="5" edges="!-256 -1573[-139 -1576 -116 -1468" />
+                    <Edge fillStyle1="5" edges="!-116 -1468|-102 -1393" />
+                    <Edge fillStyle1="5" edges="!-102 -1393|-96 -1337" />
+                    <Edge fillStyle1="5" edges="!-96 -1337|-81 -1324" />
+                    <Edge fillStyle1="5" edges="!-81 -1324|-79 -1321" />
+                    <Edge fillStyle1="5" edges="!-79 -1321|-73 -1316" />
+                    <Edge fillStyle1="5" edges="!-73 -1316|-59 -1300" />
+                    <Edge fillStyle1="5" edges="!-59 -1300|-39 -1275" />
+                    <Edge fillStyle1="5" edges="!-39 -1275|-30 -1259" />
+                    <Edge fillStyle1="5" edges="!-30 -1259|-12 -1233" />
+                    <Edge fillStyle1="5" edges="!-12 -1233|19 -1253" />
+                    <Edge fillStyle1="5" edges="!19 -1253[62 -1275 107 -1275" />
+                    <Edge fillStyle1="5" edges="!107 -1275[196 -1275 263 -1209" />
+                    <Edge fillStyle0="5" edges="!-395 -1269|-394 -1268" />
+                    <Edge fillStyle0="5" edges="!-394 -1268|-396 -1266" />
+                    <Edge fillStyle0="5" edges="!-396 -1266|-398 -1264" />
+                    <Edge fillStyle0="5" edges="!-398 -1264|-396 -1279" />
+                    <Edge fillStyle0="5" edges="!-396 -1279|-395 -1269" />
+                    <Edge fillStyle0="5" edges="!-627 -624|-601 -405" />
+                    <Edge fillStyle0="5" edges="!-601 -405|-688 -454" />
+                    <Edge fillStyle0="5" edges="!-688 -454|-669 -512" />
+                    <Edge fillStyle0="5" edges="!-669 -512|-627 -624" />
+                    <Edge fillStyle0="5" edges="!-518 -360|-518 -363" />
+                    <Edge fillStyle0="5" edges="!-518 -363|-515 -362" />
+                    <Edge fillStyle0="5" edges="!-515 -362|-518 -360" />
+                    <Edge fillStyle1="5" edges="!-46 -419|-48 -423" />
+                    <Edge fillStyle1="5" edges="!-48 -423|-49 -423" />
+                    <Edge fillStyle1="5" edges="!-49 -423|-46 -419" />
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

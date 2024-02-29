@@ -1,0 +1,86 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" linkageExportForAS="true" linkageExportForRS="true" linkageIdentifier="chuckle_fla.theUpper_1" linkageClassName="chuckle_fla.theUpper_1" name="Sprites/Sprite 13">
+  <timeline>
+    <DOMTimeline name="Sprite 13">
+      <layers>
+        <DOMLayer name="Layer 9" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0" duration="6">
+              <elements>
+                <DOMSymbolInstance name="shaderObj" libraryItemName="Sprites/Sprite 8" />
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 8" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 4" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 10" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 12" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.443527" b="-0.886307" c="0.886292" d="-0.443451" tx="21.5" ty="8.2" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.443527" b="-0.886307" c="0.886292" d="-0.443451" tx="21.5" ty="7.7" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.443527" b="-0.886307" c="0.886292" d="-0.443451" tx="21.5" ty="7.2" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 1" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 9" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 11" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" symbolType="graphic" linkageExportInFirstFrame="false" name="Shapes/Shape 6">
+  <timeline>
+    <DOMTimeline name="Shape 6">
+      <layers>
+        <DOMLayer name="Shape Sublayer 1" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#000000" />
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-357 -1035[-381 -931 -310 -680" />
+                    <Edge fillStyle0="1" edges="!-310 -680|-287 -691" />
+                    <Edge fillStyle0="1" edges="!-287 -691|-178 -382" />
+                    <Edge fillStyle0="1" edges="!-178 -382|-87 73" />
+                    <Edge fillStyle0="1" edges="!-87 73|53 63" />
+                    <Edge fillStyle0="1" edges="!53 63|-8 -462" />
+                    <Edge fillStyle0="1" edges="!-8 -462[-55 -603 -118 -728" />
+                    <Edge fillStyle0="1" edges="!-118 -728|-78 -723" />
+                    <Edge fillStyle0="1" edges="!-78 -723|-99 -903" />
+                    <Edge fillStyle0="1" edges="!-99 -903|-291 -1001" />
+                    <Edge fillStyle0="1" edges="!-291 -1001|-329 -1048" />
+                    <Edge fillStyle0="1" edges="!-329 -1048|-342 -1027" />
+                    <Edge fillStyle0="1" edges="!-342 -1027|-357 -1035" />
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

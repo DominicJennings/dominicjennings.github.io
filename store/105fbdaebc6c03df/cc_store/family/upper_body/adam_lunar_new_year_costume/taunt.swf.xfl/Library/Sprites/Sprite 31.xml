@@ -1,0 +1,114 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" linkageExportForAS="true" linkageExportForRS="true" linkageIdentifier="taunt_fla.theUpper_1" linkageClassName="taunt_fla.theUpper_1" name="Sprites/Sprite 31">
+  <timeline>
+    <DOMTimeline name="Sprite 31">
+      <layers>
+        <DOMLayer name="Layer 10" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0" duration="60">
+              <elements>
+                <DOMSymbolInstance name="shaderObj" libraryItemName="Sprites/Sprite 18" />
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 9" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0" duration="60">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 4" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0" duration="60">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.19902" b="-0.970901" c="0.970856" d="-0.198944" tx="14" ty="-4.8" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0" duration="16" />
+            <DOMFrame index="16" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 19" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 20" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 21" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 22" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 23" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="3">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 24" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 25" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 26" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 27" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 28" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 29" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" duration="24">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 30" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0" duration="16">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 1" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="44" />
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

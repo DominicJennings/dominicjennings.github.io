@@ -1,0 +1,105 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" symbolType="graphic" linkageExportInFirstFrame="false" name="Shapes/Shape 25">
+  <timeline>
+    <DOMTimeline name="Shape 25">
+      <layers>
+        <DOMLayer name="Shape Sublayer 1" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#e6e6e6" />
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#5c5c5c" />
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke weight="1" scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#000000" />
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1669 -950|-1668 -951" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1668 -951|-1668 -953" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1668 -953|-1665 -959" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1665 -959|-1663 -966" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1663 -966[-1639 -992 -1599 -977" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1599 -977|-1582 -996" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1582 -996[-1616 -1031 -1640 -1070" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1640 -1070[-1664 -1106 -1683 -1153" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1683 -1153[-1703 -1201 -1707 -1248" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1707 -1248[-1712 -1294 -1664 -1323" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1664 -1323|-1640 -1268" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1640 -1268|-1563 -1134" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1563 -1134|-1510 -1066" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1510 -1066|-1453 -1011" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1453 -1011[-1422 -985 -1378 -963" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1378 -963|-1366 -958" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1366 -958|-1300 -927" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1300 -927[-866 -1005 -740 -1040" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-740 -1040[-680 -1057 -587 -1089" />
+                    <Edge strokeStyle="1" fillStyle1="2" edges="!-587 -1089|-591 -1112" />
+                    <Edge strokeStyle="1" fillStyle1="2" edges="!-591 -1112|-346 -1175" />
+                    <Edge fillStyle1="2" edges="!-346 -1175|-322 -907" />
+                    <Edge strokeStyle="1" fillStyle1="2" edges="!-322 -907[-408 -868 -523 -836" />
+                    <Edge strokeStyle="1" fillStyle1="2" edges="!-523 -836|-528 -856" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-528 -856[-902 -776 -1284 -768" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1284 -768[-1349 -688 -1411 -702" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1411 -702|-1487 -720" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1487 -720|-1513 -725" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1513 -725[-1527 -718 -1553 -712" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1553 -712[-1609 -705 -1631 -724" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1631 -724[-1653 -743 -1655 -765" />
+                    <Edge strokeStyle="1" edges="!-1655 -765|-1654 -778" />
+                    <Edge strokeStyle="1" edges="!-1654 -778[-1653 -783 -1645 -784" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1645 -784[-1696 -800 -1713 -819" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1713 -819[-1737 -852 -1706 -925" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1706 -925|-1676 -946" />
+                    <Edge strokeStyle="1" edges="!-1676 -946|-1669 -950" />
+                    <Edge strokeStyle="1" fillStyle0="1" edges="!-1669 -950|-1670 -943" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!-1670 -943|-1680 -910" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!-1680 -910[-1688 -877 -1667 -833" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!-1667 -833|-1665 -829" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!-1665 -829[-1646 -791 -1623 -783" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!-1623 -783|-1569 -811" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!-1569 -811[-1585 -823 -1602 -852" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!-1602 -852[-1632 -899 -1625 -930" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!-1625 -930|-1599 -977" />
+                    <Edge strokeStyle="1" fillStyle0="1" edges="!-1670 -943|-1676 -946" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1655 -765|-1623 -783" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1623 -783|-1628 -783" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1628 -783|-1639 -785" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!-1639 -785|-1645 -784" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!-1482 -866|-1479 -868" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!-1479 -868|-1477 -870" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!-1477 -870|-1471 -874" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!-1471 -874|-1471 -875" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!-1471 -875[-1456 -885 -1444 -883" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!-1444 -883|-1400 -871" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!-1400 -871|-1389 -868" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!-1569 -811|-1489 -863" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!-1489 -863[-1493 -882 -1504 -903" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!-1504 -903[-1521 -930 -1539 -932" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!-1539 -932|-1547 -932" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!-1547 -932|-1560 -899" />
+                    <Edge strokeStyle="1" fillStyle0="1" edges="!-1489 -863|-1482 -866" />
+                    <Edge strokeStyle="1" fillStyle0="1" edges="!-1482 -866|-1488 -862" />
+                    <Edge strokeStyle="1" fillStyle0="1" edges="!-1488 -862|-1489 -863" />
+                    <Edge strokeStyle="1" fillStyle0="2" fillStyle1="1" edges="!-587 -1089|-528 -856" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!-1582 -996|-1560 -976" />
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

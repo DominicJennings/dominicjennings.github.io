@@ -1,0 +1,44 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" symbolType="graphic" linkageExportInFirstFrame="false" name="Shapes/Shape 17">
+  <timeline>
+    <DOMTimeline name="Shape 17">
+      <layers>
+        <DOMLayer name="Shape Sublayer 1" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#000000" />
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-358 -1038[-416 -949 -436 -690" />
+                    <Edge fillStyle0="1" edges="!-436 -690|-415 -692" />
+                    <Edge fillStyle0="1" edges="!-415 -692|-420 -374" />
+                    <Edge fillStyle0="1" edges="!-420 -374|-496 100" />
+                    <Edge fillStyle0="1" edges="!-496 100[-522 186 -524 237" />
+                    <Edge fillStyle0="1" edges="!-524 237|-526 283" />
+                    <Edge fillStyle0="1" edges="!-526 283|-515 319" />
+                    <Edge fillStyle0="1" edges="!-515 319|-447 36" />
+                    <Edge fillStyle0="1" edges="!-447 36|-382 52" />
+                    <Edge fillStyle0="1" edges="!-382 52|-381 36" />
+                    <Edge fillStyle0="1" edges="!-381 36|-337 38" />
+                    <Edge fillStyle0="1" edges="!-337 38|-233 -392" />
+                    <Edge fillStyle0="1" edges="!-233 -392[-229 -536 -243 -671" />
+                    <Edge fillStyle0="1" edges="!-243 -671[-222 -662 -203 -650" />
+                    <Edge fillStyle0="1" edges="!-203 -650|-160 -826" />
+                    <Edge fillStyle0="1" edges="!-160 -826|-306 -983" />
+                    <Edge fillStyle0="1" edges="!-306 -983|-329 -1052" />
+                    <Edge fillStyle0="1" edges="!-329 -1052|-353 -1033" />
+                    <Edge fillStyle0="1" edges="!-353 -1033|-358 -1038" />
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

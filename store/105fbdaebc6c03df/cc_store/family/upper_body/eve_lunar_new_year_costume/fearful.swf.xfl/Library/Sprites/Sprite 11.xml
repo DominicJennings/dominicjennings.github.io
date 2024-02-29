@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" linkageExportForAS="true" linkageExportForRS="true" linkageIdentifier="fearful_fla.mask_3" linkageClassName="fearful_fla.mask_3" name="Sprites/Sprite 11">
+  <timeline>
+    <DOMTimeline name="Sprite 11">
+      <layers>
+        <DOMLayer name="Layer 3" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0" duration="15">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 5" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 6" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 7" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 8" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 9" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" duration="27">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 10" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,187 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" linkageExportForAS="true" linkageExportForRS="true" linkageIdentifier="sit_fla.theUpper_1" linkageClassName="sit_fla.theUpper_1" name="Sprites/Sprite 8">
+  <timeline>
+    <DOMTimeline name="Sprite 8">
+      <layers>
+        <DOMLayer name="Layer 16" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMSymbolInstance name="shaderObj" libraryItemName="Sprites/Sprite 7">
+                  <matrix>
+                    <Matrix d="1.00046" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 15" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#5c5c5c" />
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke weight="1" scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#000000" />
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!258 -1246[455 -1145 541 -975" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!541 -975[628 -807 611 -520" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!611 -520|582 -53" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!582 -53|551 290" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!551 290[420 304 157 220" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!157 220[211 -16 232 -256" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!232 -256[252 -497 259 -747" />
+                    <Edge fillStyle1="1" edges="!259 -747|258 -1246" />
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 13" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.19902" b="-0.970901" c="0.970856" d="-0.198944" tx="16.05" ty="20.95" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 12" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#e6e6e6" />
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke weight="1" scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#000000" />
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!519 212|517 221" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!517 221|507 255" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!507 255[497 326 474 397" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!474 397[452 467 407 533" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!407 533[362 598 280 617" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!280 617[255 630 223 630" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!223 630|182 618" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!182 618[155 635 131 635" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!131 635[117 635 100 625" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!100 625[80 613 81 588" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!81 588[81 562 128 535" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!128 535[175 508 185 438" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!185 438[160 464 130 465" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!130 465[100 466 103 418" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!103 418[106 369 145 302" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!145 302[183 234 226 229" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!226 229|229 221" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!229 221|233 212" />
+                    <Edge fillStyle1="1" edges="!233 212|519 212" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!185 438|225 366" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!365 505[340 574 315 593" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!315 593|280 617" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!182 618[206 609 242 573" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!242 573[278 536 285 502" />
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 10" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.19902" b="-0.970901" c="0.970856" d="-0.198944" tx="16.05" ty="20.95" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 9" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#5c5c5c" />
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke weight="1" scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#000000" />
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!258 -1246[455 -1145 541 -975" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!541 -975[628 -807 611 -520" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!611 -520|582 -53" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!582 -53|551 290" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!551 290[420 304 157 220" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!157 220[211 -16 232 -256" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!232 -256[252 -497 259 -747" />
+                    <Edge fillStyle1="1" edges="!259 -747|258 -1246" />
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.19902" b="-0.970901" c="0.970856" d="-0.198944" tx="16.05" ty="20.95" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 1" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

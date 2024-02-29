@@ -1,0 +1,370 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" linkageExportForAS="true" linkageExportForRS="true" linkageIdentifier="dance_fla.theUpper_1" linkageClassName="dance_fla.theUpper_1" name="Sprites/Sprite 37">
+  <timeline>
+    <DOMTimeline name="Sprite 37">
+      <layers>
+        <DOMLayer name="Layer 14" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0" duration="23">
+              <elements>
+                <DOMSymbolInstance name="shaderObj" libraryItemName="Sprites/Sprite 16">
+                  <matrix>
+                    <Matrix d="0.99942" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 13" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 4" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 18" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="3">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 20" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 18" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 23" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 25" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 27" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="7" />
+            <DOMFrame index="20" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 34" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 36" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 12" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0" duration="13" />
+            <DOMFrame index="13" duration="2">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#e6e6e6" />
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke weight="1" scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#000000" />
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!764 -670[735 -546 718 -534" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!718 -534|712 -539" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!712 -539[666 -568 600 -587" />
+                    <Edge strokeStyle="1" fillStyle0="1" edges="!600 -587|595 -596" />
+                    <Edge strokeStyle="1" fillStyle0="1" edges="!595 -596|593 -600" />
+                    <Edge strokeStyle="1" fillStyle0="1" edges="!593 -600[581 -670 596 -747" />
+                    <Edge strokeStyle="1" fillStyle0="1" edges="!596 -747[619 -865 702 -865" />
+                    <Edge strokeStyle="1" fillStyle0="1" edges="!702 -865[728 -865 798 -824" />
+                    <Edge strokeStyle="1" fillStyle0="1" edges="!798 -824[857 -789 873 -775" />
+                    <Edge strokeStyle="1" fillStyle0="1" edges="!873 -775|911 -726" />
+                    <Edge strokeStyle="1" fillStyle0="1" edges="!911 -726[922 -707 938 -705" />
+                    <Edge strokeStyle="1" fillStyle0="1" edges="!938 -705[962 -701 984 -681" />
+                    <Edge strokeStyle="1" fillStyle0="1" edges="!984 -681[1010 -657 1013 -620" />
+                    <Edge strokeStyle="1" fillStyle0="1" edges="!1013 -620|1013 -615" />
+                    <Edge strokeStyle="1" fillStyle0="1" edges="!1013 -615|1018 -552" />
+                    <Edge strokeStyle="1" fillStyle0="1" edges="!1018 -552[1018 -464 938 -410" />
+                    <Edge strokeStyle="1" fillStyle0="1" edges="!938 -410[899 -383 867 -374" />
+                    <Edge strokeStyle="1" fillStyle0="1" edges="!867 -374|836 -370" />
+                    <Edge strokeStyle="1" fillStyle0="1" edges="!836 -370[810 -370 797 -382" />
+                    <Edge strokeStyle="1" fillStyle0="1" edges="!797 -382[784 -394 789 -420" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!789 -420|799 -420" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!799 -420[826 -436 856 -482" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!856 -482[893 -537 893 -587" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!893 -587|888 -620" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!600 -587[549 -573 574 -512" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!574 -512[590 -484 613 -460" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!613 -460[654 -420 717 -420" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!717 -420|749 -423" />
+                    <Edge strokeStyle="1" edges="!749 -423|749 -420" />
+                    <Edge strokeStyle="1" edges="!749 -420|751 -420" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!751 -420|789 -420" />
+                    <Edge fillStyle0="1" edges="!751 -420|751 -424" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!751 -424|754 -425" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!754 -425[774 -433 774 -457" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!774 -457[774 -498 718 -534" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!749 -423|751 -424" />
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="3" />
+            <DOMFrame index="18" duration="2">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#e6e6e6" />
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke weight="1" scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#000000" />
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!751 -420|789 -420" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!789 -420[784 -394 797 -382" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!797 -382[810 -370 836 -370" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!836 -370|867 -374" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!867 -374[899 -383 938 -410" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!938 -410[1018 -464 1018 -552" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!1018 -552|1013 -615" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!1013 -615|1013 -620" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!1013 -620[1010 -657 984 -681" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!984 -681[962 -701 938 -705" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!938 -705[922 -707 911 -726" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!911 -726|873 -775" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!873 -775[857 -789 798 -824" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!798 -824[728 -865 702 -865" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!702 -865[619 -865 596 -747" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!596 -747[581 -670 593 -600" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!593 -600|595 -596" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!595 -596|600 -587" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!600 -587[549 -573 574 -512" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!574 -512[590 -484 613 -460" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!613 -460[654 -420 717 -420" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!717 -420|749 -423" />
+                    <Edge strokeStyle="1" edges="!749 -423|749 -420" />
+                    <Edge strokeStyle="1" edges="!749 -420|751 -420" />
+                    <Edge fillStyle0="1" edges="!751 -420|751 -424" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!751 -424|754 -425" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!754 -425[774 -433 774 -457" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!774 -457[774 -498 718 -534" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!718 -534[735 -546 764 -670" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!718 -534|712 -539" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!712 -539[666 -568 600 -587" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!789 -420|799 -420" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!799 -420[826 -436 856 -482" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!856 -482[893 -537 893 -587" />
+                    <Edge strokeStyle="1" fillStyle0="1" fillStyle1="1" edges="!893 -587|888 -620" />
+                    <Edge strokeStyle="1" fillStyle1="1" edges="!749 -423|751 -424" />
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="3" />
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 10" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="0.313095" b="-0.940323" c="0.940262" d="0.313141" tx="-42.25" ty="-17.75" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="0.545807" b="-0.82724" c="0.827179" d="0.545837" tx="-84.75" ty="-27.75" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="3">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="0.545807" b="-0.82724" c="0.827179" d="0.545837" tx="-94.75" ty="-13" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="0.545807" b="-0.82724" c="0.827179" d="0.545837" tx="-84.75" ty="-27.75" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="0.313095" b="-0.940323" c="0.940262" d="0.313141" tx="-42.25" ty="-17.75" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="0.313095" b="-0.940323" c="0.940262" d="0.313141" tx="-28.75" ty="-15.75" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="0.0590515" b="-0.989319" c="0.989258" d="0.0591125" tx="11.75" ty="-12.75" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.19902" b="-0.970901" c="0.970856" d="-0.198944" tx="41.75" ty="-27.5" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="3">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.278839" b="-0.950775" c="0.950729" d="-0.278763" tx="59.25" ty="-7.5" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="-0.19902" b="-0.970901" c="0.970856" d="-0.198944" tx="41.75" ty="-27.5" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="2">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="0.0590515" b="-0.989319" c="0.989258" d="0.0591125" tx="11.75" ty="-12.75" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22">
+              <elements>
+                <DOMSymbolInstance name="theProp" libraryItemName="Sprites/Sprite 3">
+                  <matrix>
+                    <Matrix a="0.313095" b="-0.940323" c="0.940262" d="0.313141" tx="-31.75" ty="-11.75" />
+                  </matrix>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 9" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 1" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 17" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="3">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 19" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 21" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 22" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 24" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 26" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 28" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="3">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 30" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 31" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 33" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 35" symbolType="graphic" loop="single frame" />
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

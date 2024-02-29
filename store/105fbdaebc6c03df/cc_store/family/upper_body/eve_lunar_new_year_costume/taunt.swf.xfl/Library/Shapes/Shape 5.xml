@@ -1,0 +1,62 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" symbolType="graphic" linkageExportInFirstFrame="false" name="Shapes/Shape 5">
+  <timeline>
+    <DOMTimeline name="Shape 5">
+      <layers>
+        <DOMLayer name="Shape Sublayer 1" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#000000" />
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-1990 -1082[-1988 -1075 -1974 -1065" />
+                    <Edge fillStyle0="1" edges="!-1974 -1065[-1956 -1052 -1929 -1050" />
+                    <Edge fillStyle0="1" edges="!-1929 -1050|-1899 -1045" />
+                    <Edge fillStyle0="1" edges="!-1899 -1045[-1878 -1043 -1860 -1052" />
+                    <Edge fillStyle0="1" edges="!-1860 -1052|-1800 -1074" />
+                    <Edge fillStyle0="1" edges="!-1800 -1074[-1808 -1058 -1819 -1042" />
+                    <Edge fillStyle0="1" edges="!-1819 -1042|-1830 -1022" />
+                    <Edge fillStyle0="1" edges="!-1830 -1022|-1831 -1015" />
+                    <Edge fillStyle0="1" edges="!-1831 -1015[-1810 -972 -1754 -928" />
+                    <Edge fillStyle0="1" edges="!-1754 -928[-1712 -933 -1698 -969" />
+                    <Edge fillStyle0="1" edges="!-1698 -969|-1690 -962" />
+                    <Edge fillStyle0="1" edges="!-1690 -962|-1673 -951" />
+                    <Edge fillStyle0="1" edges="!-1673 -951|-1678 -949" />
+                    <Edge fillStyle0="1" edges="!-1678 -949[-1696 -939 -1696 -914" />
+                    <Edge fillStyle0="1" edges="!-1696 -914[-1696 -896 -1672 -879" />
+                    <Edge fillStyle0="1" edges="!-1672 -879[-1653 -864 -1645 -864" />
+                    <Edge fillStyle0="1" edges="!-1645 -864|-1507 -905" />
+                    <Edge fillStyle0="1" edges="!-1507 -905|-1442 -897" />
+                    <Edge fillStyle0="1" edges="!-1442 -897[-1420 -897 -1398 -908" />
+                    <Edge fillStyle0="1" edges="!-1398 -908|-1346 -931" />
+                    <Edge fillStyle0="1" edges="!-1346 -931[-1312 -938 -1123 -931" />
+                    <Edge fillStyle0="1" edges="!-1123 -931[-934 -925 -822 -925" />
+                    <Edge fillStyle0="1" edges="!-822 -925|-614 -921" />
+                    <Edge fillStyle0="1" edges="!-614 -921[-603 -921 -614 -904" />
+                    <Edge fillStyle0="1" edges="!-614 -904|-298 -914" />
+                    <Edge fillStyle0="1" edges="!-298 -914|-345 -1176" />
+                    <Edge fillStyle0="1" edges="!-345 -1176|-614 -1162" />
+                    <Edge fillStyle0="1" edges="!-614 -1162|-614 -1145" />
+                    <Edge fillStyle0="1" edges="!-614 -1145|-779 -1140" />
+                    <Edge fillStyle0="1" edges="!-779 -1140|-1115 -1116" />
+                    <Edge fillStyle0="1" edges="!-1115 -1116|-1394 -1098" />
+                    <Edge fillStyle0="1" edges="!-1394 -1098|-1588 -1178" />
+                    <Edge fillStyle0="1" edges="!-1588 -1178|-1592 -1180" />
+                    <Edge fillStyle0="1" edges="!-1592 -1180|-1614 -1189" />
+                    <Edge fillStyle0="1" edges="!-1614 -1189|-1700 -1179" />
+                    <Edge fillStyle0="1" edges="!-1700 -1179[-1788 -1169 -1891 -1133" />
+                    <Edge fillStyle0="1" edges="!-1891 -1133[-1996 -1098 -1990 -1082" />
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

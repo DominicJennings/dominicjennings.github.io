@@ -1,0 +1,81 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" symbolType="graphic" linkageExportInFirstFrame="false" name="Shapes/Shape 22">
+  <timeline>
+    <DOMTimeline name="Shape 22">
+      <layers>
+        <DOMLayer name="Shape Sublayer 1" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#000000" />
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!248 -610[349 -669 475 -698" />
+                    <Edge fillStyle0="1" edges="!475 -698[374 -967 304 -1025" />
+                    <Edge fillStyle0="1" edges="!304 -1025|185 -772" />
+                    <Edge fillStyle0="1" edges="!185 -772|248 -610" />
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shape Sublayer 1" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#000000" />
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!525 -498[607 -203 693 40" />
+                    <Edge fillStyle1="1" edges="!693 40|711 80" />
+                    <Edge fillStyle1="1" edges="!711 80[723 108 725 137" />
+                    <Edge fillStyle1="1" edges="!725 137|728 209" />
+                    <Edge fillStyle1="1" edges="!728 209|730 261" />
+                    <Edge fillStyle1="1" edges="!730 261[730 289 722 323" />
+                    <Edge fillStyle1="1" edges="!722 323|687 412" />
+                    <Edge fillStyle1="1" edges="!687 412[660 467 647 467" />
+                    <Edge fillStyle1="1" edges="!647 467[638 468 630 457" />
+                    <Edge fillStyle1="1" edges="!630 457|623 433" />
+                    <Edge fillStyle1="1" edges="!623 433|623 420" />
+                    <Edge fillStyle1="1" edges="!623 420|621 421" />
+                    <Edge fillStyle1="1" edges="!621 421|602 436" />
+                    <Edge fillStyle1="1" edges="!602 436|587 442" />
+                    <Edge fillStyle1="1" edges="!587 442[579 443 571 436" />
+                    <Edge fillStyle1="1" edges="!571 436[562 428 562 420" />
+                    <Edge fillStyle1="1" edges="!562 420|580 386" />
+                    <Edge fillStyle1="1" edges="!580 386|550 400" />
+                    <Edge fillStyle1="1" edges="!550 400[540 400 532 392" />
+                    <Edge fillStyle1="1" edges="!532 392[525 386 524 376" />
+                    <Edge fillStyle1="1" edges="!524 376|540 340" />
+                    <Edge fillStyle1="1" edges="!540 340|542 338" />
+                    <Edge fillStyle1="1" edges="!542 338|569 275" />
+                    <Edge fillStyle1="1" edges="!569 275|586 221" />
+                    <Edge fillStyle1="1" edges="!586 221|567 177" />
+                    <Edge fillStyle1="1" edges="!567 177[548 136 547 114" />
+                    <Edge fillStyle1="1" edges="!547 114|547 92" />
+                    <Edge fillStyle1="1" edges="!547 92|549 74" />
+                    <Edge fillStyle1="1" edges="!549 74|269 -621" />
+                    <Edge fillStyle1="1" edges="!269 -621|248 -610" />
+                    <Edge fillStyle1="1" edges="!248 -610|185 -772" />
+                    <Edge fillStyle1="1" edges="!185 -772|304 -1025" />
+                    <Edge fillStyle1="1" edges="!304 -1025[374 -967 475 -698" />
+                    <Edge fillStyle1="1" edges="!475 -698|463 -695" />
+                    <Edge fillStyle1="1" edges="!463 -695|525 -498" />
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
