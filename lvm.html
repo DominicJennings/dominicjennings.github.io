@@ -1,0 +1,264 @@
+<html lang="en"><head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<link rel="dns-prefetch" href="/">
+
+<title>Joseph Animate Awesome Domain and GoAnimators - Create Video - Joseph Animate Awesome Domain</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="description" content="The Video Maker lets You make a video for YouTube for free! Drag &amp; drop or type &amp; go.  It's Fast, Fun, Easy and Free -  Joseph Animate Awesome Domain!">
+
+<meta property="og:site_name" content="Joseph Animate Awesome Domain">
+<meta property="fb:app_id" content="122508887813978">
+<meta name="google-site-verification" content="Vta3YTpj6Kx6u4p-EzeMArY0alNItkyUYYMvNM8seVI">
+
+<link href="/fonts/2/font2014.css" rel="stylesheet" type="text/css"/>
+<link href="/static/477/go/css/bootstrap/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+<link href="/static/477/go/css/bootstrap/bootstrap-modal.css" rel="stylesheet" type="text/css"/>
+<link href="/static/477/go/css/bootstrap/bootstrapSwitch.css" rel="stylesheet" type="text/css"/>
+<link href="/static/477/go/css/style.css" rel="stylesheet" type="text/css"/>
+<link href="/static/477/go/css/site.css" rel="stylesheet" type="text/css"/>
+<link href="/static/477/go/css/overlay.css" rel="stylesheet" type="text/css"/>
+
+<link href="/static/477/go/css/business_video/home.css" rel="stylesheet" type="text/css"/>
+<script>
+var srv_tz_os = -4, view_name = "school", user_cookie_name = "u_info_school";
+var user_country = "US";
+</script>
+
+<!--[if lt IE 9]>
+<script src="https://d2qrjeyl4jwu9j.cloudfront.net/static/642cd772aad8e952/go/js/lib/html5shiv.js.gz.js"></script>
+<![endif]-->
+<script src="/static/642cd772aad8e952/school/js/common_combined.js.gz.js"></script>
+<script type="text/javascript" src="/static/477/go/po/goserver_js-en_US.json"></script>
+<script type="text/javascript">
+var I18N_LANG = 'en_US';
+var GT = new Gettext({'locale_data': json_locale_data});
+</script>
+<script src="/ajax/cookie_policy.js" async=""></script>
+<script src="/static/477/go/js/movie.js"></script>
+<script src="/static/477/go/js/cookie.js"></script>
+<script src="/static/477/go/js/studio.js"></script>
+<script src="/static/477/go/js/jquery/jquery.tmpl.min.js"></script>
+<script src="/school/js/studio.js.gz.js"></script>
+
+<!-- Google Knowledge Graph -->
+<script type="application/ld+json">
+{
+    "@context": "http://web.archive.org/web/20181226033546/http://schema.org",
+    "@type": "Organization",
+    "name": "GoAnimate",
+    "url": "http://dominicjennings.github.io",
+    "logo": "http://gawpstorage.s3.amazonaws.com/img/google_knowledge_graph_logo.jpg",
+    "sameAs": [
+        "http://www.facebook.com/GoAnimateInc",
+        "http://twitter.com/GoAnimate",
+        "http://www.linkedin.com/company/goanimate",
+        "http://plus.google.com/+goanimate",
+        "http://www.youtube.com/user/GoAnimate"
+    ]
+}
+</script>
+
+</head>
+<body class="page-action-videomaker full_screen_studio" style="">
+<script type="text/javascript">
+if (self !== top) {
+            jQuery('body').hide();
+    }
+</script>
+
+<div class="site-header">
+	<div class="site-header-bg"></div>
+	<div class="container site-header-inside">
+		<a class="site-logo" href="/" title="GoAnimate">
+			<img alt="Make a Video Online with GoAnimate.com" src="/static/477/go/img/business_video/home/list_logo.png"/>
+		</a>
+
+		<div class="pull-right">
+			<ul id="top-nav" class="top-nav">
+				<li class="dropdown">
+					<a class="dropdown-toggle" href="/pages/html/main_page.html" data-toggle="dropdown">Fetured Links <span class="caret"></span></a>
+					<ul class="dropdown-menu">
+					<li><a href="#" onclick="fullscreenStudio('/2epik4u');">2epik4u dancing</a>
+					<li><a href="#" onclick="fullscreenStudio('/brokethebatter');">
+						Make a cool video					</a>
+						<li><a href="https://www.vyond.com/blog">Blog</a></li>
+						<li><a href="/videos">Videos</a></li>
+						<li><a class="btn btn-orange pull-left" href="/whatsnew.html">News And Updates</a></li>
+						<li><a class="btn btn-orange pull-left" href="/old">Make a Video</a></li>
+						<li><a class="btn btn-orange pull-left" href="/personalcharlist.html">Character Creator List</a></li>
+			</div>
+		</div>
+
+	</div>
+</div>
+
+<style>
+html, body, #studio-container {margin:0;padding:0;width:100%;height:100%;overflow:hidden;}
+</style>
+<link href="/pages/css/global.css" rel="stylesheet" type="text/css"/>
+<link href="/pages/css/swf.css" rel="stylesheet" type="text/css"/>
+<script src="https://vyond-legacy-2024-99ae92c3796f.herokuapp.com/static/go/js/swfobject.js"></script>
+	
+<iframe style="display:none" name="dummy"></iframe>
+
+<script>
+	////
+	//// This JS contains important Video Studio stuff
+	////
+	
+	///
+	/// Variables
+	///
+	var previewPlayerTempData = "";
+	const fu = document.getElementById('fileupload'),
+		sub = document.getElementById('submit');
+
+	///
+	/// Previewer
+	///
+	function initPreviewPlayer(dataXmlStr, startFrame, containsChapter, themeList) {
+		// New variable to be used by loadPreviewer()
+		movieDataXmlStr = dataXmlStr;
+		// Movie XML
+		filmXmlStr = dataXmlStr.split("<filmxml>")[1].split("</filmxml>")[0];
+		// Show preview popup
+		document.getElementById("preview_popup_container").style.display = "block";
+		// Load the Video Previewer
+		loadPreviewer();
+	}
+	function loadPreviewer() {
+		// I think this is in case of an error??
+		if (movieDataXmlStr === null) {
+			return;
+		}
+		// I don't know
+		savePreviewData(movieDataXmlStr);
+	}
+	function savePreviewData(a) {
+		// Set temp data variable
+		previewPlayerTempData = a
+	}
+	function retrievePreviewPlayerData() {
+		// Store in separate variable
+		var recentPreviewPlayerTempData = previewPlayerTempData;
+		// Clear original variable
+		previewPlayerTempData = "";
+		// Return recent temp data
+		return recentPreviewPlayerTempData;
+	}
+
+	///
+	/// Importing
+	///
+	// Show upload window
+	function showImporter() {
+		document.getElementById("import_popup_container").style.display = "block";
+	};
+
+	///
+	/// Other stuff
+	///
+	// Redirect to Video Browser on Video Studio exit
+	function exitStudio() {
+		window.location = "/videos/browse.php";
+	}
+	// Hide interactive tutorial
+	interactiveTutorial = {
+		neverDisplay: function() {
+			return true
+		}
+	};
+	// Hide Video Previewer popup
+	function hidePreviewer() {
+		document.getElementById("preview_popup_container").style.display = "none";
+	}
+	// Save your video with the preview window
+        function saveVideo() {
+		document.getElementById("preview_popup_container").style.display = "none";
+		document.getElementById("Studio").onExternalPreviewPlayerPublish();
+	}
+	// Hide Asset Importer popup
+	function hideImporter() {
+		document.getElementById("import_popup_container").style.display = "none";
+	}
+</script>
+<!-- Video Studio -->
+<div id="studio-container">
+	<object data="https://dominicjennings.github.io/animation/414827163ad4eb60/go_full.swf" type="application/x-shockwave-flash" id="Studio" width="100%" height="100%">
+	<!-- The flashvars are a huge mess, have fun looking at them. :) -->
+	<param name="flashvars" value="apiserver=https://vyond-legacy-2024-99ae92c3796f.herokuapp.com/&movieId=&storePath=https://dominicjennings.github.io/static/store/<store>&isEmbed=1&ctc=go&ut=60&bs=default&appCode=go&page=&siteId=go&lid=13&isLogin=Y&retut=1&clientThemePath=https://dominicjennings.github.io/static/<client_theme>&themeId=custom&tlang=en_US&presaveId=m-3&goteam_draft_only=1&isWide=1&collab=0&nextUrl=./browse.php&tray=custom">
+	<param name="allowScriptAccess" value="always">
+	<param name="allowFullScreen" value="true">
+        </object>
+</div>
+<div id="import_popup_container" style="display:none">
+	<div id="import_popup">
+		<h2 id="import-an-asset">Import an Asset</h2>
+		<p class="close-button" onclick="hideImporter()">X</p>
+		<!-- Import form -->
+		<div id="import_image">
+			<form id="uploadbanner" enctype="multipart/form-data" method="post" action="/ajax/saveUserProp" target="dummy">
+				<input id="fileupload" name="import" type="file" accept=".mp3,.wav,.png,.jpg">
+				<h3 id="import-as">Import As:</h3>
+				<input type="radio" value="prop" name="subtype"> Prop</input>
+			<br />
+				<input type="radio" value="background" name="subtype"> Background</input>
+				<br />
+				<input type="submit" value="Import" onclick='document.getElementById("Studio").importerUploadComplete("importerUploadComplete"); document.getElementById("import_popup_container").style.display = "none";' id="submit" class="button_import" />
+			</form>
+		</div>
+	</div>
+</div>
+<div id="preview_popup_container" style="display:none">
+	<div id="preview_popup">
+		<h2 id="preview-video">Preview Video</h2>
+		<p class="close-button" onclick="hidePreviewer()">X</p>
+		<object data="https://dominicjennings.github.io/animation/414827163ad4eb60/player.swf" type="application/x-shockwave-flash" id="preview_player">
+			<!-- The flashvars are a huge mess, have fun looking at them. :) -->
+			<param name="flashvars" value="apiserver=https://vyond-legacy-2024-99ae92c3796f.herokuapp.com/&storePath=https://dominicjennings.github.io/static/store/<store>&isEmbed=1&ctc=go&ut=60&bs=default&appCode=go&page=&siteId=go&lid=13&isLogin=Y&retut=1&clientThemePath=https://dominicjennings.github.io/static/<client_theme>&themeId=custom&tlang=en_US&isInitFromExternal=1&goteam_draft_only=1&isWide=1&collab=0&startFrame=previewStartFrame&autostart=1&nextUrl=../pages/html/list.html&tray=custom">
+			<param name="allowScriptAccess" value="always">
+			<param name="allowFullScreen" value="true">
+		</object>
+                <a class="button_big" href="#" onclick="hidePreviewer()">Back to editing</a>
+		<a class="button_big" href="#" onclick="saveVideo()">Save now</a>
+	</div>
+</div>
+<script>
+var so = new SWFObject("https://dominicjennings.github.io/animation/414827163ad4eb60/go_full.swf", "Studio", "100%", "100%", "10.0.12");
+so.useExpressInstall('/static/libs/expressInstall.swf');
+so.addParam("AllowScriptAccess", "always");
+so.addParam("wmode", "transparent");
+so.addParam("scale", "exactfit");
+so.addParam("allowFullScreen","true");
+
+so.addVariable("apiserver", "https://vyond-legacy-2024-99ae92c3796f.herokuapp.com/");
+so.addVariable("storePath", "https://dominicjennings.github.io/static/store/<store>");
+so.addVariable("isEmbed", "1");
+so.addVariable("ctc", "go");
+so.addVariable("ut", "60");
+so.addVariable("bs", "default");
+so.addVariable("appCode", "go");
+so.addVariable("page", "");
+so.addVariable("siteId", "go");
+so.addVariable("lid", "13");
+so.addVariable("isLogin", "Y");
+so.addVariable("retut", "1");
+so.addVariable("clientThemePath", "https://dominicjennings.github.io/static/<client_theme>");
+so.addVariable("themeId", "custom");
+so.addVariable("presaveId", "m-3");
+so.addVariable("movieId", "");
+so.addVariable("goteam_draft_only", "1");
+so.addVariable("isWide", "1");
+so.addVariable("collab", "0");
+so.addVariable("nextUrl", "./browse.php");
+so.addVariable("tray", "custom");
+
+
+
+
+so.write("studio-container");
+</script>
