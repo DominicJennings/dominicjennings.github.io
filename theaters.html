@@ -1,0 +1,126 @@
+<html>
+
+<header>
+	<a href="/">
+		<h1 style="margin:0"><img id="logo" src="/pages/img/logo.svg" alt="GoAnimate Online"></h1>
+	</a>
+	<nav id="headbuttons">
+		<a class="button_small" onclick="document.getElementById('file').click()">UPLOAD A CHAR</a>
+		<a href="/create?filter=cc" class="button_small">CREATE A CHARACTER</a>
+		<a href="/create" class="button_big">MAKE A VIDEO</a>
+		<a href="/create?filter=old" class="button_big">MAKE A OLD VIDEO</a>
+		<a href="/create_qvm" class="button_big">TEMPLATE VIDEO</a>
+		<a href="/home" class="button_big">GOANIMATE HOME</a>
+	</nav>
+</header>
+
+<head><script type="text/javascript" class="__REQUESTLY__SCRIPT">(function(namespace) {
+  window[namespace] = window[namespace] || {};
+  window[namespace].responseRules = {};
+
+  let open = XMLHttpRequest.prototype.open;
+  XMLHttpRequest.prototype.open = function(method) {
+    this.addEventListener('readystatechange', function() {
+      if (this.readyState === 4 && window[namespace].responseRules.hasOwnProperty(this.responseURL)) {
+        const responseRule = window[namespace].responseRules[this.responseURL];
+        const {response, id} = responseRule;
+        const responseType = this.responseType;
+        let customResponse;
+
+        customResponse = response.type === 'code' ? responseRule.evaluator({
+            method,
+            url: this.responseURL,
+            requestHeaders: this.requestHeaders,
+            requestData: this.requestData,
+            responseType: this.responseType,
+            response: this.response
+          }) : response.value;
+
+        Object.defineProperty(this, 'response', {
+          get: function () {
+            if (response.type === 'static' && responseType === 'json') {
+              return JSON.parse(customResponse);
+            }
+            return customResponse;
+          }
+        });
+
+        if (responseType === '' || responseType === 'text') {
+          Object.defineProperty(this, 'responseText', {
+            get: function () {
+              return customResponse;
+            }
+          });
+        }
+
+        window.postMessage({
+          from: 'requestly',
+          type: 'response_rule_applied',
+          id
+        }, window.location.href);
+      }
+    }, false);
+    open.apply(this, arguments);
+  };
+
+  let send = XMLHttpRequest.prototype.send;
+  XMLHttpRequest.prototype.send = function(data) {
+    this.requestData = data;
+    send.apply(this, arguments);
+  };
+
+  let setRequestHeader = XMLHttpRequest.prototype.setRequestHeader;
+  XMLHttpRequest.prototype.setRequestHeader = function(header, value) {
+    this.requestHeaders = this.requestHeaders || {};
+    this.requestHeaders[header] = value;
+    setRequestHeader.apply(this, arguments);
+  }
+})('__REQUESTLY__')</script>
+	<meta charset="UTF-8">
+	<link rel="icon" href="/favicon.ico" type="image/png">
+
+	<title>GoAnimate Online: Movie Theaters</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+	<meta name="description" content="Choose your theme! | Discord https://discord.gg/DpBBJkBuzQ">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="GoAnimate Online: Movie Theaters">
+	<meta property="og:description" content="Choose your theme! | Discord https://discord.gg/DpBBJkBuzQ">
+	<meta property="og:url" content="https://josephcrosmanplays532.herokuapp.com">
+	<meta property="og:image:secure_url" content="https://josephcrosmanplays532.herokuapp.com/pages/img/list_logo.png"> 
+	<meta property="og:image" content="https://josephcrosmanplays532.herokuapp.com/pages/img/list_logo_ga.png"> 
+	<meta name="theme-color" content="gold">
+	<link rel="stylesheet" type="text/css" href="../css/modern-normalize.css">
+	<link rel="stylesheet" type="text/css" href="../css/global.css">
+	<link rel="stylesheet" type="text/css" href="../css/list.css">
+	<script src="https://code.jquery.com/jquery-3.5.1.js"></script><script charset="utf-8" src="chrome-extension://oakbcaafbicdddpdlhbchhpblmhefngh/dist/ruffle.js?id=58800301603"></script>
+
+</head><body><myflashextensionid id="pkomojeklgbndilokjedodpebdbekiod"></myflashextensionid>
+
+
+
+<center>
+<h1>Select a Theaters</h1><br>
+<p>Set this, if this recommended.</p>
+<p>You can go back into video page by clicking the logo</p>
+
+<p><a href="/sonic-the-hedgehog-3-offical-trailer.mp4" style="color: black; text-decoration: none;">Sonic The Hedgehog 3 Offical Trailer</a></p>
+<p><a href="/sonic-the-hedgehog-3-theatrical-trailer-1.mp4" style="color: black; text-decoration: none;">Sonic The Hedgehog 3 Theatrical Trailer 1</a></p>
+<p><a href="/sonic-the-hedgehog-3-theatrical-trailer-2.mp4" style="color: black; text-decoration: none;">Sonic The Hedgehog 3 Theatrical Trailer 2</a></p>
+<p><a href="/sonic-the-hedgehog-3-theatrical-trailer-3.mp4" style="color: black; text-decoration: none;">Sonic The Hedgehog 3 Theatrical Trailer 3</a></p>
+<p><a href="/sonic-the-hedgehog-3-tv-spot-nickelodeon-version.mp4" style="color: black; text-decoration: none;">Sonic The Hedgehog 3 TV Spot Nickelodeon Version</a></p>
+<p><a href="/sonic-3-trailer-regal.mp4" style="color: black; text-decoration: none;">Sonic 3 Trailer Regal</a></p>
+</center>
+	</script>
+<footer>
+	<nav id="foot-left">
+		<a>v.2.0.0</a>
+		<a href="/settings">Settings</a>
+		<a href="https://github.com/Wrapper-Offline/Wrapper-Offline/wiki">FAQ</a>
+		<a href="https://discord.gg/yhGAetN">Discord</a>
+		<a href="/oldcc">Old cc</a>
+		<a href="/go_full?tray=custom&tutorial=0">Tutorial</a>
+	</nav>
+
+	<nav id="foot-right"></nav>
+</footer>
+</html>
